@@ -1,0 +1,10 @@
+}
+
+#conteneur-home{
+  width:100%;
+  background:url("../image/island.jpg")
+  fixed 100% no-repeat;
+  background-size:cover;
+  padding:159.5px 0px 100px 0px;
+  text-alighn:center;
+}
